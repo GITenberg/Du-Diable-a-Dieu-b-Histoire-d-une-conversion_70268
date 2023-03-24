@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/François_Coppée
     - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Copp%C3%A9e
+covers:
+- cover_type: archival
+  image_path: 70268-h/images/cover.jpg
 creator:
   author:
     agent_name: Retté, Adolphe
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '6973'
     url: http://www.gutenberg.org/2009/agents/6973
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70268#Du-Diable-a-Dieu-b-Histoire-d-une-conversion
 gutenberg_issued: '2023-03-13'
 identifiers:
   gutenberg: '70268'
